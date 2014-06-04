@@ -1,0 +1,9 @@
+name: "My Jekyll Template"
+description: "my description"
+url: "http://ayabas.github.io/testJekyllSite"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
