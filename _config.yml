@@ -1,7 +1,7 @@
 name: "My Jekyll Template"
 description: "my description"
 url: "http://ayabas.github.io/testJekyllSite"
-baseurl:"/testJekyllSite"
+baseurl: "/testJekyllSite"
 paginate: 10
 
 markdown: rdiscount
